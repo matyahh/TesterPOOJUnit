@@ -1,3 +1,9 @@
+/*                                                                                                      23/09/24
+@Author: Mateus Henrique de Jesus Oliveira && Rithiellen Kariny Alves Maxima
+            "Classe que realiza os testes da
+                Classe DNAAnalyzer"
+ */
+
 package org.example;
 
 import static org.junit.jupiter.api.Assertions.*;

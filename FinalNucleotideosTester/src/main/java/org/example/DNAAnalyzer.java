@@ -1,7 +1,7 @@
 /*                                                                                                      23/09/24
 @Author: Mateus Henrique de Jesus Oliveira && Rithiellen Kariny Alves Maxima
-            "Classe que tem o método que recebe uma String
-                                 do Arquivo txt"
+            "Classe que tem o método CalculaNucleotideos que recebe uma String
+                                 de um  Arquivo txt"
  */
 
 
